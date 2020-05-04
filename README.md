@@ -10,7 +10,7 @@
 <p>It is assumed that you have Conda pre-installed.<br>
     Open up the terminal and type:<br>
     
-    git clone https://github.com/piratlasaikiran/EEG_for_BCI<br>
+    git clone https://github.com/piratlasaikiran/EEG_for_BCI
     cd EEG_for_BCI/CNN models
     jupyter notebook
     
