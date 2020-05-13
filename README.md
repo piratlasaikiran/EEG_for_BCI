@@ -1,6 +1,8 @@
 # EEG for BCI
 
-This project is done as a part of course Neural Networks & Fuzzy Logic(BITS F312). The project presentation can be found [here](insert link).
+This project is done as a part of course Neural Networks & Fuzzy Logic(BITS F312). 
+
+The project presentation can be found [here](insert link).
 
 #### Team:
 
