@@ -1,12 +1,33 @@
 # EEG for BCI
+
+This project is done as a part of course Neural Networks & Fuzzy Logic(BITS F312). The project presentation can be found [here](insert link).
+
 [Deep learning EEG response representation for brain computer interface](https://ieeexplore.ieee.org/document/7260182)
 
 This repository contains code to run experiments which closely simulate those run by Liu Jingwei et al. in the paper linked to above.
 
-### Algorithm
+The EEG data used in these series of experiments is from [Project BCI - EEG motor activity data set](insert link), Brain Computer Interface research at NUST Pakistan.
+
+#### Team:
+
+- Sai Kiran Piratla
+- Kalimi Venkata Yashwanth Kumar Reddy
+- Yaswanth Kumar Rayapati
+
+---
+
+### Algorithm:
+
+
+---
 
 ### Conclusions
 
+
+
+
+
+---
 ### Instructions to run:
 It is assumed that you have Conda pre-installed.
 
@@ -18,4 +39,4 @@ Open up the terminal and type:
     jupyter notebook
     
     
-Open up multi-scale CNN.ipynb, shallow CNN.ipynb and single-scale CNN.ipynb to run the respective versions of the implementation.
+Open up `multi-scale CNN.ipynb`, `shallow CNN.ipynb` and `single-scale CNN.ipynb` to run the respective versions of the implementation.
