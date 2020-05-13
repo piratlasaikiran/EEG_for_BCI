@@ -2,12 +2,6 @@
 
 This project is done as a part of course Neural Networks & Fuzzy Logic(BITS F312). The project presentation can be found [here](insert link).
 
-[Deep learning EEG response representation for brain computer interface](https://ieeexplore.ieee.org/document/7260182)
-
-This repository contains code to run experiments which closely simulate those run by Liu Jingwei et al. in the paper linked to above.
-
-The EEG data used in these series of experiments is from [Project BCI - EEG motor activity data set](insert link), Brain Computer Interface research at NUST Pakistan.
-
 #### Team:
 
 - Sai Kiran Piratla
@@ -16,19 +10,31 @@ The EEG data used in these series of experiments is from [Project BCI - EEG moto
 
 ---
 
-### Algorithm:
+[Deep learning EEG response representation for brain computer interface](https://ieeexplore.ieee.org/document/7260182)
+
+This repository contains code to run experiments which closely simulate those run by Liu Jingwei et al. in the paper linked to above.
+
+The EEG data used in these series of experiments is from [Project BCI - EEG motor activity data set](insert link), Brain Computer Interface research at NUST Pakistan.
+
+*The results of the project can be interactively viewed at :* 
+
+[Report on Weights and Biases](insert link)
+
+---
+
+## Algorithm:
 
 
 ---
 
-### Conclusions
+## Conclusions
 
-
+(insert graph and conclusions)
 
 
 
 ---
-### Instructions to run:
+## Instructions to run:
 It is assumed that you have Conda pre-installed.
 
 Open up the terminal and type:
