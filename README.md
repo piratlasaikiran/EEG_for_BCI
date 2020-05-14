@@ -6,7 +6,7 @@ The project presentation can be found [here](insert link).
 
 #### Team:
 
-- Sai Kiran Piratla
+- Venkata Sai Kiran Piratla
 - Kalimi Venkata Yashwanth Kumar Reddy
 - Yaswanth Kumar Rayapati
 
@@ -16,7 +16,7 @@ The project presentation can be found [here](insert link).
 
 This repository contains code to run experiments which closely simulate those run by Liu Jingwei et al. in the paper linked to above.
 
-The EEG data used in these series of experiments is from [Project BCI - EEG motor activity data set](insert link), Brain Computer Interface research at NUST Pakistan.
+The EEG data used in these series of experiments is from [Project BCI - EEG motor activity data set](https://sites.google.com/site/projectbci/), Brain Computer Interface research at NUST Pakistan.
 
 *The results of the project can be interactively viewed at :* 
 
