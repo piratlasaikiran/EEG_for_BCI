@@ -43,7 +43,10 @@ Open up the terminal and type:
 
     
     git clone https://github.com/piratlasaikiran/EEG_for_BCI
-    cd EEG_for_BCI/CNN models
+    cd EEG_for_BCI
+    conda env create -f environment.yml
+    conda activate nnfl
+    cd CNN models
     jupyter notebook
     
     
