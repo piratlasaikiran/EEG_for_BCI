@@ -32,6 +32,16 @@ The EEG data used in these series of experiments is from [Project BCI - EEG moto
 <img src="images/shallow.png">
 
 ---
+## Tabulated Results:
+
+|       | Multi Scale CNN | Single Scale CNN | Shallow CNN |
+| --- | --- | --- | --- |
+| Epochs to reach maximum accuracy | 3 | 3 | 2 |
+| Time taken to reach maximum accuray | 5ms/step | 3.923 ms/step | 2.817 ms/step |
+| Trainable parameters | 51,844 | 29,364 | 48,104 |
+
+
+
 ## Instructions to run:
 It is assumed that you have Conda pre-installed.
 
