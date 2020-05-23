@@ -27,7 +27,7 @@ The EEG data used in these series of experiments is from [Project BCI - EEG moto
 
 ## Observations:
 
-<img src="images/mutliscale.png">
+<img src="images/multiscale.png">
 <img src="images/singlescale.png">
 <img src="images/shallow.png">
 
