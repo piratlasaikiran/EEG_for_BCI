@@ -18,10 +18,6 @@ This repository contains code to run experiments which closely simulate those ru
 
 The EEG data used in these series of experiments is from [Project BCI - EEG motor activity data set](https://sites.google.com/site/projectbci/), Brain Computer Interface research at NUST Pakistan.
 
-*The results of the project can be interactively viewed at :* 
-
-[Report on Weights and Biases](insert link)
-
 ---
 
 ## Algorithm:
@@ -29,11 +25,11 @@ The EEG data used in these series of experiments is from [Project BCI - EEG moto
 
 ---
 
-## Conclusions
+## Observations:
 
-(insert graph and conclusions)
-
-
+<img src="images/mutliscale.png">
+<img src="images/singlescale.png">
+<img src="images/shallow.png">
 
 ---
 ## Instructions to run:
@@ -50,4 +46,7 @@ Open up the terminal and type:
     jupyter notebook
     
     
+    
 Open up `multi-scale CNN.ipynb`, `shallow CNN.ipynb` and `single-scale CNN.ipynb` to run the respective versions of the implementation.
+
+
