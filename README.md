@@ -2,7 +2,7 @@
 
 This project is done as a part of course Neural Networks & Fuzzy Logic(BITS F312) at Birla Institute of Technology & Science Pilani. 
 
-The project presentation can be found [here](./project_presentation.pdf).
+The project presentation can be found [here](https://docs.google.com/presentation/d/1pM84G8_HE_Jl1Dl6kfvyh_vt-G4tE3b4jn-5WQHSBps/edit?usp=sharing).
 
 #### Team:
 
