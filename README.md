@@ -12,9 +12,8 @@ The project presentation can be found [here](https://docs.google.com/presentatio
 
 ---
 
-[Deep learning EEG response representation for brain computer interface](https://ieeexplore.ieee.org/document/7260182)
 
-This repository contains code to run experiments which closely simulate those run by Liu Jingwei et al. in the paper linked to above.
+This repository contains code to run experiments which closely simulate those run by Liu Jingwei et al. in the paper [Deep learning EEG response representation for brain computer interface](https://ieeexplore.ieee.org/document/7260182).
 
 The EEG data used in these series of experiments is from [Project BCI - EEG motor activity data set](https://sites.google.com/site/projectbci/), Brain Computer Interface research at NUST Pakistan.
 
@@ -47,7 +46,7 @@ We achieved the maximum accuracy in significantly lesser time, compared with the
 
 
 ## Instructions to run:
-It is assumed that you have Conda pre-installed.
+Conda installation is a prerequisite.
 
 Open up the terminal and type:
 
@@ -61,6 +60,6 @@ Open up the terminal and type:
     
     
     
-Open up `multi-scale CNN.ipynb`, `shallow CNN.ipynb` and `single-scale CNN.ipynb` to run the respective versions of the implementation.
+Open up `multi-scale CNN.ipynb`, `shallow CNN.ipynb` and `single-scale CNN.ipynb` to run the respective  CNN architectures or you can directly load the trained models from `trained CNN models` directory inorder to save training time and evaluate directly.
 
 
