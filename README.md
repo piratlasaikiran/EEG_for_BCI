@@ -62,10 +62,10 @@ Open up the terminal and type:
     
 Open up `multi-scale CNN.ipynb`, `shallow CNN.ipynb` and `single-scale CNN.ipynb` to run the respective  CNN architectures or you can directly use the trained models by following below instructions
 
-    1. load desired trained model from `trained CNN model` directory in a jupyter notebook
-    2. load data from `datasets` directory as .csv file
-    3. perform data pre-processing as mentioned in paper (You can refer any notebook in `CNN models` directory for the same)
-    4. evaluate on loaded model using pre-processed data
+1. load desired trained model from `trained CNN model` directory in a jupyter notebook
+2. load data from `datasets` directory as .csv file
+3. perform data pre-processing as mentioned in paper (You can refer any notebook in `CNN models` directory for the same)
+4. evaluate on loaded model using pre-processed data
 
    
 
